@@ -128,9 +128,9 @@ python-geoacumen-city==2023.4.15
     # via -r requirements.in
 pytz==2020.4
     # via flask-restx
-redis==4.4.4
+redis==4.3.6
     # via -r requirements.in
-requests==2.28.1
+requests==2.27.1
     # via -r requirements.in
 s3transfer==0.3.3
     # via boto3
